@@ -11,4 +11,4 @@ Teste utilizando o secret store do Dapr que se baseia em Azure Key Vault:
 
 Trace no Grafana Tempo envolvendo o uso do secret store do Dapr que se baseia em Azure Key Vault (via chamada gRPC):
 
-![Requisição - Azure Key Vault state store](img/azkeyvault-01.png)
+![Requisição - Azure Key Vault state store](img/azkeyvault-02.png)
